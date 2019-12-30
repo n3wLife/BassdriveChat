@@ -1,0 +1,6 @@
+framework module Pods_Bassdrive_ChatTests {
+  umbrella header "Pods-Bassdrive ChatTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
